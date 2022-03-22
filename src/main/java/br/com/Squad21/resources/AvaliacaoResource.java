@@ -20,7 +20,7 @@ import br.com.Squad21.servicies.AvaliacaoService;
 
 
 @RestController
-@RequestMapping("/avaliacoess")
+@RequestMapping("/avaliacoes")
 @CrossOrigin(origins = "https://refugio.netlify.app/")
 public class AvaliacaoResource {
 	
